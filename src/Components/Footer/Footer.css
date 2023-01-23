@@ -1,0 +1,25 @@
+
+.footer
+{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5rem;
+    
+
+}
+
+ul{
+    list-style-type:none;
+}
+
+.footer li {
+    color: #737373;
+    cursor: pointer;
+    line-height: 2rem;
+    font-size: smaller;
+    font-style: inherit;
+
+}
+
